@@ -4,4 +4,8 @@ print(a+b)
 
 a=9
 b=4
-print(a-b)git
+print(a-b)
+
+a=4
+b=3
+print(a*b)
